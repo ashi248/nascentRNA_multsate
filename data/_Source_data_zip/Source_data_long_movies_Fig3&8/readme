@@ -1,0 +1,6 @@
+Long movies raw data. 
+
+1. Time is measured in seconds
+2. Sites ordering is arbitrary
+3. Missing data is coded -1 
+4. Threshold is 1200 except for tat_latency when it is 500
