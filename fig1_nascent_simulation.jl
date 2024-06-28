@@ -5,6 +5,7 @@ using StatsBase
 using Interpolations
 using Plots
 using JLD2
+include("nascentRNA_function.jl")
 
 function generate_data_mature(u = 1, v = 1, l1 = 20, l2 = 0)
     #u = 1; v = 1; k1 = 20; k2 = 0;
